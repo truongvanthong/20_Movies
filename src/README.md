@@ -4,9 +4,7 @@ Technologies used : - Django, HTML, CSS, Javascript, Ajax, Bootstrap
 ## Screenshots of the application
 
 * Home page
-![image](https://github.com/truongvanthong/Project-Movie-App/assets/82353328/f4bd149d-9b31-435c-8f75-ad2db77d98e1)
-![image](https://github.com/truongvanthong/Project-Movie-App/assets/82353328/96da9ae3-3a5c-42c3-b880-027e38582f5f)
-![image](https://github.com/truongvanthong/Project-Movie-App/assets/82353328/af8ad579-c7ce-4ed5-978f-dde86e4c7c8d)
+
 
 * Signup Page
 ![image](https://github.com/truongvanthong/Project-Movie-App/assets/82353328/69add950-d12c-4c66-a250-e2d98835b104)
