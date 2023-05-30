@@ -7,12 +7,10 @@ Technologies used : - Django, HTML, CSS, Javascript, Ajax, Bootstrap
 ![image](https://github.com/truongvanthong/20_Movies/assets/83570634/ffb40b66-2992-4577-a13b-a230d0076252)
 
 * Signup Page
-![image](https://github.com/truongvanthong/20_Movies/assets/83570634/9e98b3c4-2e27-4fa2-8e58-d590ac406b98)
-
-
-* Login Page
 ![image](https://github.com/truongvanthong/20_Movies/assets/83570634/121a5909-27b3-4444-b967-034ba6629853)
 
+* Login Page
+![image](https://github.com/truongvanthong/20_Movies/assets/83570634/9e98b3c4-2e27-4fa2-8e58-d590ac406b98)
 * Dashboard
 ![image](https://user-images.githubusercontent.com/82353328/233965281-55c7d1b7-2a57-4569-a842-2c0303a032ce.png)
 ![image](https://user-images.githubusercontent.com/82353328/233965386-9b6eac13-5383-4067-bd64-8ba29620ba87.png)
